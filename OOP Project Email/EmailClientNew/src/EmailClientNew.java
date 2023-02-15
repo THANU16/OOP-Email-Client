@@ -650,8 +650,8 @@ class Mail implements Serializable {
 
     //mail is send when the method is call
     public void sendMail(){
-        final String username = "thanushanthk16@gmail.com";
-        final String password = "hnvyunhabgxmxzpi";
+        final String username = "example@gmail.com";
+        final String password = "mail app password";
 
         Properties prop = new Properties();
         prop.put("mail.smtp.host", "smtp.gmail.com");
@@ -669,7 +669,7 @@ class Mail implements Serializable {
         try {
 
             Message message = new MimeMessage(session);
-            message.setFrom(new InternetAddress("kanagarajahthanushanth@gmail.com"));
+            message.setFrom(new InternetAddress("example@gmail.com"));
             message.setRecipients(
                     Message.RecipientType.TO,
                     InternetAddress.parse(toMailID)
