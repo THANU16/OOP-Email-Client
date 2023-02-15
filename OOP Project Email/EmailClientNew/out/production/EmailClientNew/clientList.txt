@@ -1,0 +1,13 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Official: varun,varun@gmail.com,clark
+Personal: lithurshan,likku,lithurshank@gmail.com,2000/08/14
+Personal: thiruvarangan,thiru,thiru@gmail.com,2000/12/12
+Official: vimal,vimal@gmail.com,manager
+Personal: suvethiga,suchchu,jsuvethi@gmail.com,2000/12/07
+Personal: sangaran,sangarjii,thevarasasangaran@gmail.com,2000/08/13
+Personal: mathusha,mathu,mathushasiva2k@gmail.com,2000/01/01
+Personal: piratheep,pp,upiratheep24@gmail.com,1997/08/12
+Personal: sangaran,sangarjii,thevarasasangaran@gmail.com,2000/10/11
+Official: vimal,vimal@gmail.com,teacher
+Official: nimal,nimal@gmail.com,ceo
